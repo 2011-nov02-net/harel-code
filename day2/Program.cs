@@ -12,7 +12,7 @@ namespace day2
             foreach (string word in phrase) {
                 acronym += word[0];
             }
-            Console.WriteLine($"the acronym is {acronym}");
+            Console.WriteLine($"the acronym is {acronym.ToUpper()}");
         }
     }
 }
