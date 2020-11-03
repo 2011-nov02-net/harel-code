@@ -6,7 +6,13 @@ namespace day2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Enter a phrase you want an acronym for");
+            var phrase = Console.ReadLine().Split(' ');
+            string acronym = "";
+            foreach (string word in phrase) {
+                acronym += word[0];
+            }
+            Console.WriteLine($"the acronym is {acronym}");
         }
     }
 }
