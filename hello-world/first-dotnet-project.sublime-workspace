@@ -1,0 +1,242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"outl",
+				"outline-width\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"item",
+				"ItemCount"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"previw",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Preferences: LSP Settings",
+				"Preferences: LSP Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/hmf/Documents/GitHub/harel-code/hello-world/Program.cs",
+		"/home/hmf/Documents/revature/week3/main.css",
+		"/home/hmf/Documents/revature/week3/exercise.html",
+		"/home/hmf/Documents/GitHub/trainer-code/3-mvc/modules/a-html-fundamentals/lecture-notes.md",
+		"/home/hmf/Documents/GitHub/trainer-code/3-mvc/modules/a-html-fundamentals/lecture-notes.html",
+		"/home/hmf/Documents/GitHub/trainer-code/3-mvc/modules/c-html5/lecture-notes.md",
+		"/home/hmf/.var/app/com.sublimetext.three/config/sublime-text-3/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+		"/home/hmf/Documents/GitHub/trainer-code/3-mvc/modules/a-html-fundamentals/README.md",
+		"/home/hmf/Documents/GitHub/trainer-code/2-sql/2-sql-ddl/1-tables.sql",
+		"/home/hmf/Documents/GitHub/harel-project0/project0/db-sql/project0.sql",
+		"/home/hmf/Documents/revature/ef-test/entity-chnook/Program.cs",
+		"/home/hmf/Downloads/project0/StoreConsoleUI/Main.cs",
+		"/home/hmf/Documents/revature/trainer-code/2-sql/2-sql-ddl/1-tables.sql",
+		"/home/hmf/Documents/revature/trainer-code/2-sql/1-sql-basics/3-set-ops.sql",
+		"/home/hmf/Documents/revature/trainer-code/2-sql/1-sql-basics/1-intro.sql",
+		"/home/hmf/Downloads/Chinook_SqlServer.sql",
+		"/home/hmf/Documents/revature/harel-project0/project0/Store/Store.cs",
+		"/home/hmf/Documents/revature/rockPaperScissors/Program.cs",
+		"/home/hmf/Documents/revature/trainer-code/1-csharp/HelloVisualStudio/HelloVisualStudio.Library/Product.cs",
+		"/home/hmf/Documents/revature/trainer-code/1-csharp/HelloVisualStudio/HelloVisualStudio.ConsoleApp/Product.cs",
+		"/home/hmf/Documents/workspace/PracticeCar/src/FuelTank.java",
+		"/home/hmf/Documents/workspace/PracticeCar/src/Engine.java"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 109.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "first-dotnet-project.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
