@@ -31,10 +31,55 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Program.cs",
+			"settings":
+			{
+				"buffer_size": 175,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
 	],
-	"build_system": "",
+	"build_system": "Packages/User/dotnetCore.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					""
+				],
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					""
+				],
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/dotnetCore.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/dotnetCore.sublime-build",
+				""
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
@@ -46,6 +91,14 @@
 			[
 				"Package Control: ins",
 				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: New Build System"
+			],
+			[
+				"omni",
+				"OmniSharpSublime: Restart Server"
 			],
 			[
 				"previw",
@@ -72,9 +125,14 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 137.0,
 		"history":
 		[
+			"os.system('bash')",
+			"os.system('pwd')",
+			"import os",
+			"system.os(\"bash\")",
+			"bash"
 		]
 	},
 	"distraction_free":
@@ -86,8 +144,13 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/hmf/Documents/GitHub/harel-code/hello-world"
+	],
 	"file_history":
 	[
+		"/home/hmf/.var/app/com.sublimetext.three/config/sublime-text-3/Packages/User/dotnetCore.sublime-build",
 		"/home/hmf/Documents/GitHub/harel-code/hello-world/Program.cs",
 		"/home/hmf/Documents/revature/week3/main.css",
 		"/home/hmf/Documents/revature/week3/exercise.html",
@@ -141,11 +204,46 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"folders":
+	[
+		{
+			"path": "/home/hmf/Documents/GitHub/harel-code/hello-world"
+		}
+	],
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Program.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -182,7 +280,7 @@
 	"menu_visible": true,
 	"output.diagnostics":
 	{
-		"height": 0.0
+		"height": 109.0
 	},
 	"output.exec":
 	{
@@ -193,7 +291,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "first-dotnet-project.sublime-project",
+	"project": "",
 	"replace":
 	{
 		"height": 44.0
